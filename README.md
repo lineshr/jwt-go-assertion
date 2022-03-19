@@ -2,8 +2,8 @@
 
 ### Install k6 and GO 
 
-https://k6.io/docs/getting-started/installation/
-https://go.dev/dl/
+- https://k6.io/docs/getting-started/installation/
+- https://go.dev/dl/
 
 
 ### download below libraries to execute go-module and K6 test
