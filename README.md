@@ -12,5 +12,7 @@ go get go.k6.io/k6/js/modules
 before execute test need to copy Keystore.jks file in the source folder. 
 It will read keystore and select certificate to sign JWT data. 
 
+```
 $ xk6 build --with xk6-compare=.
 $ ../k6 run test.js
+```
